@@ -44,4 +44,4 @@ python3 runner.py
 # Project Context
 This is the final assignment submission for the T3 2020 iteration of INFS2822 by me. This code was created in less than 24 hours and should be judged with that in mind.
 
-Thanks Blair Wang and Matthew Perry for the great course.
+Thanks Blair Wang and Matthew Perry. I had a great time with the course.
